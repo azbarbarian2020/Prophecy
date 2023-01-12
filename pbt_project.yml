@@ -1,0 +1,17 @@
+name: Reporting
+description: ''
+version: 0.0.1-SNAPSHOT
+author: jason.drew@databricks.com
+language: python
+buildSystem: wheel
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}
